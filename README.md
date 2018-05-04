@@ -14,10 +14,10 @@ Optimize Images with Imagemin
 
 ##Dependencies
 [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin "gulp-imagemin")
-compress's GIF, JPEG, PNG, and SVG images
-[gulp-concat](https://www.npmjs.com/package/gulp-concat "gulp-concat")
-[gulp-uglify](https://www.npmjs.com/package/gulp-uglify "gulp-uglify")
-[gulp-sass](https://www.npmjs.com/package/gulp-sass "gulp-sass") 
+compress's GIF, JPEG, PNG, and SVG images  
+gulp-concat [gulp-concat](https://www.npmjs.com/package/gulp-concat "gulp-concat")  
+gulp-uglify [gulp-uglify](https://www.npmjs.com/package/gulp-uglify "gulp-uglify")  
+gulp-sass [gulp-sass](https://www.npmjs.com/package/gulp-sass "gulp-sass")    
 
 ## Install Dependencies
 ```bash
