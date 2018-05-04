@@ -15,8 +15,8 @@ Optimize Images with Imagemin
 ##Dependencies  
 gulp-imagemin [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin "gulp-imagemin")
 compress's GIF, JPEG, PNG, and SVG images  
-gulp-concat [gulp-concat](https://www.npmjs.com/package/gulp-concat "gulp-concat")  
-gulp-uglify [gulp-uglify](https://www.npmjs.com/package/gulp-uglify "gulp-uglify") Minification of JavaScript 
+gulp-concat [gulp-concat](https://www.npmjs.com/package/gulp-concat "gulp-concat")concat files by your operating systems newLine.  
+gulp-uglify [gulp-uglify](https://www.npmjs.com/package/gulp-uglify "gulp-uglify") Minification of JavaScript   
 gulp-sass [gulp-sass](https://www.npmjs.com/package/gulp-sass "gulp-sass") Compile SASS files  
 
 ## Install Dependencies
