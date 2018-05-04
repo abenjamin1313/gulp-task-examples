@@ -12,7 +12,7 @@ Optimize Images with Imagemin
 ### Version
 1.0.0
 
-##Dependencies
+##Dependencies  
 gulp-imagemin [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin "gulp-imagemin")
 compress's GIF, JPEG, PNG, and SVG images  
 gulp-concat [gulp-concat](https://www.npmjs.com/package/gulp-concat "gulp-concat")  
